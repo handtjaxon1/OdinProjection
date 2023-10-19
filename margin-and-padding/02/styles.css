@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+
+.card {
+    background-color: white;
+    max-width: 600px;
+    padding: 8px;
+}
+
+.card > * {
+    background-color: rgb(141, 178, 247);
+}
